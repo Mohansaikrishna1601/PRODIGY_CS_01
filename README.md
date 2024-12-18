@@ -46,14 +46,14 @@ This Python script implements a simple Caesar Cipher encryption and decryption t
     View the encrypted or decrypted message.
 
 Example:
-Caesar Cipher Program
-Would you like to (E)ncrypt, (D)ecrypt, or (Q)uit? E
-Enter your message: Hello, World!
-Enter the shift value (0-25): 3
-Encrypted message: Khoor, Zruog!
+-Caesar Cipher Program
+-Would you like to (E)ncrypt, (D)ecrypt, or (Q)uit? E
+-Enter your message: Hello, World!
+-Enter the shift value (0-25): 3
+-Encrypted message: Khoor, Zruog!
 
 Requirements
-    Python 3.x
+   - Python 3.x
 
 Author
-    Mohan Sai Krishna G M
+   - Mohan Sai Krishna G M
